@@ -11,7 +11,7 @@ A Flutter application with a splash screen, login, and register screens.
 - Dark theme design.
 
 ## 📸 Screenshots
-<img src="screenshots/logging.gif" width="300">
+<img src="assets/logging.gif" width="300">
 
 ## 📱 Screens
 ### Splash Screen
